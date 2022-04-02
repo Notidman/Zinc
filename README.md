@@ -1,2 +1,2 @@
 # Zinc
-Zinc - zink is not cbc
+Zinc - zinc is not cbc
