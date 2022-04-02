@@ -75,10 +75,10 @@ while true; do
   read answer;
 
   if [[ $answer == "y"* ]]; then
+    check_success "zinc"
     printf " --- [[[ ${CR_LIGHT_CYAN}zinc${CR_END} ${CR_ORANGE}was started${CR_END}! ]]] ---\n\n"
     ./zinc;
     printf "\n";
-    check_success "zinc"
     break;
   elif [[ $answer == "N"* ]]; then
     exit 0;
