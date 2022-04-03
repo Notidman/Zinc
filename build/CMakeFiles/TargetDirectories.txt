@@ -1,3 +1,0 @@
-/home/notidman/Prg/git_projects/Zinc/build/CMakeFiles/zinc.dir
-/home/notidman/Prg/git_projects/Zinc/build/CMakeFiles/edit_cache.dir
-/home/notidman/Prg/git_projects/Zinc/build/CMakeFiles/rebuild_cache.dir
